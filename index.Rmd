@@ -1,0 +1,10 @@
+---
+title: "My Website"
+---
+
+<img src="images/profile-pic.png" style="width:30%; border:10px solid; margin-right: 30px" align="left">
+
+
+My name is Michael Flynn. I'm currently an associate professor of political science at Kansas State University. My research focuses primarily on the political economy of states' foreign policy behavior. I am currently working on two long-term projects.
+
+You can find a copy of my CV [here](files/Flynn_CV.pdf).

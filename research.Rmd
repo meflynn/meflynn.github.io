@@ -1,0 +1,9 @@
+---
+title: "Research"
+---
+
+This page contains information on my research.
+
+ - Dogs
+ - Cats
+    - Cats 2

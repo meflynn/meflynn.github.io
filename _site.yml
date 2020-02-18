@@ -1,0 +1,21 @@
+name: "website"
+navbar:
+  title: "Michael E Flynn"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Minerva"
+      href: minerva.html
+    - text: "Teaching"
+      href: teaching.html
+      menu: 
+        - text: "US Foreign Policy"
+          href: us-foreign-policy.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: 
+    css: "styles.css"
+    
