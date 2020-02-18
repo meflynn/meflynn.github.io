@@ -2,7 +2,7 @@
 title: "Michael E Flynn"
 ---
 
-<img src="images/profile-pic.png" style="width:30%; border:10px solid; margin-right: 30px" align="left">
+<img src="images/profile-pic.png" style="width:35%; margin-right: 30px" align="left">
 
 
 My name is Michael Flynn. I'm currently an associate professor of political science at Kansas State University. My research focuses primarily on the political economy of states' foreign policy behavior. I am currently working on two long-term projects focusing on the politics of US overseas military deployments, and another focusing on the differences in Republican and Democratic positions on  multilateralism in US foreign policy over time. I also edit and contribute to the Quantitative Peace, a blog dedicated to political science, science fiction, pop culture, and other random thoughts.
@@ -24,5 +24,4 @@ My name is Michael Flynn. I'm currently an associate professor of political scie
 <form action="http://quantitativepeace.com"> 
     <input type="submit" value="Quantitative Peace" />
 </form>
-
 

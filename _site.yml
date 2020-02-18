@@ -1,4 +1,4 @@
-name: "website"
+name: "meflynn"
 output_dir: "."
 navbar:
   title: "Michael E Flynn"
@@ -14,9 +14,17 @@ navbar:
       menu: 
         - text: "US Foreign Policy"
           href: us-foreign-policy.html
+    - icon: fab fa-twitter
+      href: http://www.twitter.com/michael_e_flynn
+    - icon: fab fa-github
+      href: https://github.com/meflynn
 output:
   html_document:
     theme: cosmo
     highlight: 
     css: "styles.css"
+    includes:
+      after_body: footer.html
     
+
+
