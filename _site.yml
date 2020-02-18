@@ -1,5 +1,4 @@
 name: "website"
-output_dir: "."
 navbar:
   title: "Michael E Flynn"
   right:
