@@ -26,7 +26,7 @@ My name is Michael Flynn. I'm currently an associate professor of political scie
 This page is currently under construction so please excuse the oddities and errors. Some are temporary.
 
 
-  <form action="files/Flynn_CV.pdf">
+  <form action="files/cv/Flynn_CV.pdf">
       <input type="submit" value="CV" />
   </form>
 

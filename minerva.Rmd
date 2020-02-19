@@ -3,4 +3,26 @@ title: "Minerva"
 ---
 
 
-Welcome to my page dedicated to our Minerva Research Initiative grant.
+
+This page is dedicated to our Minerva Research Initiative project: The Social, Political, and Economic Consequences of the US Military's Overseas Deployments (Grant # W911NF-18-1-0087). 
+
+Below you can find files related to the application process and our data collection process.
+
+### Application Materials
+
+- [White Paper](files/minerva/White-paper-finalpdf.pdf)
+- [Full Proposal](files/minerva/8c-f COMBINED.pdf)
+
+
+### Data and Documentation
+
+- [Survey Data Years (1 and 2)](files/minerva/data-years-1-2-combined.csv)
+- [Survey Codebook](files/minerva/Codebook for Survey w2.pdf)
+- [Protest Data](files/minerva/protest-data-20200114.csv)
+- [Protest Data Codebook](files/minerva/Codebook for Protest Data.pdf)
+
+
+### Publications
+
+- [Outside the Wire: U.S. Military Deployments and Public Opinion in Host States](https://doi.org/10.1017/S0003055419000868)
+  - [Replication Data](files/minerva/apsr-data-20190905.csv)

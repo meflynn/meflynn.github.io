@@ -12,6 +12,8 @@ navbar:
     - text: "Teaching"
       href: teaching.html
       menu: 
+        - text: "Student Resources"
+          href: student-resources.html
         - text: "POLSC 135 - Introduction to World Politics"
           href: introduction-to-world-politics.html
         - text: "POLSC 345 - US Foreign Policy"
