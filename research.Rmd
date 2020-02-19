@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-This page contains information on my research.
+My research generally focuses on the political economy of foreign policy, conflict, and security issues. My current research focuses more specifically on the social, political, and economic consequences of the United States' overseas military deployments and basing. 
 
- - Dogs
- - Cats
-    - Cats 2
+You can find replication data for my publications on my [Hardvard Dataverse Page](https://dataverse.harvard.edu/dataverse/meflynn). 
