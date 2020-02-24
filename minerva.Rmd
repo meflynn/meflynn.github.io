@@ -26,3 +26,4 @@ Below you can find files related to the application process and our data collect
 
 - [Outside the Wire: U.S. Military Deployments and Public Opinion in Host States](https://doi.org/10.1017/S0003055419000868)
   - [Replication Data](files/minerva/apsr-data-20190905.csv)
+  - [Supplementary Appendix](files/minerva/apsr-final-appendix.pdf)
