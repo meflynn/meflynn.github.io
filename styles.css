@@ -2,7 +2,18 @@
   background-color: #512888;
   border-color: #F8F8F8;
   max-width: 100%;
+  font-size: 18px;
+  font-weight: 500;
+  padding-right: 150px;
 }
+
+/* Edit Navbar title details */
+.navbar-brand {
+  font-size: 22px;
+  font-weight: 500;
+  padding-left: 200px;
+}
+
 
 /* Link */
 .navbar-default .navbar-nav > li > a {
@@ -24,6 +35,8 @@
     color: #555;
     background-color: #F8F8F8;
 }
+
+
 
 body .main-container { 
   max-width: 800px;
