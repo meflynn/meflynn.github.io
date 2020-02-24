@@ -8,4 +8,4 @@ You can find a copy of my [CV here](files/cv/Flynn_CV.pdf).
 
 You can find my [Google Scholar Page here](https://scholar.google.com/citations?user=_bkNbckAAAAJ&hl=en).
 
-You can find replication data for my publications on my [Hardvard Dataverse Page](https://dataverse.harvard.edu/dataverse/meflynn). 
+You can find replication data for my publications on my [Harvard Dataverse Page](https://dataverse.harvard.edu/dataverse/meflynn). 

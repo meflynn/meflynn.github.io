@@ -7,7 +7,11 @@ title: "Michael E Flynn"
   width: 50%;
   padding: 15px;
 }
-
+  
+.button {
+  background-color: #512888;
+  }
+  
 </style>
 
 <div class="row">
@@ -20,8 +24,14 @@ title: "Michael E Flynn"
   </div>
   
   <div class="column">
+  
+  
 
-My name is Michael Flynn. I'm currently an associate professor of political science at Kansas State University. My research focuses primarily on the political economy of states' foreign policy behavior. I am currently working on two long-term projects focusing on the politics of US overseas military deployments, and another focusing on the differences in Republican and Democratic positions on  multilateralism in US foreign policy over time. I also edit and contribute to the Quantitative Peace, a blog dedicated to political science, science fiction, pop culture, and other random thoughts.
+My name is Michael Flynn. I'm currently an associate professor of political science at Kansas State University. My research focuses primarily on the political economy of states' foreign policy behavior. My work has appeared in the *American Political Science Review*, the *British Journal of Political Science*, *International Studies Quarterly*, and more. I have also published several blog posts or op-eds in outlets like the *Monkey Cage*, *The Conversation*, and *Political Violence @ a Glance*.
+
+I am currently working on two long-term projects: One project focuses on the politics of US overseas military deployments. A nother project focuses on the differences in Republican and Democratic positions on multilateralism in US foreign policy over time. 
+
+I also edit and contribute to the Quantitative Peace, a blog dedicated to political science, science fiction, pop culture, and other random thoughts.
 
 This page is currently under construction so please excuse the oddities and errors. Some are temporary.
 
@@ -53,6 +63,7 @@ This page is currently under construction so please excuse the oddities and erro
   <form action="http://quantitativepeace.com"> 
       <input type="submit" value="Quantitative Peace" />
   </form>
+
 
 
 </div>
