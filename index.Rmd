@@ -5,7 +5,7 @@ title: "Michael E Flynn"
 .column {
   float: left;
   width: 50%;
-  padding: 2px;
+  padding: 15px;
 }
 
 </style>
@@ -15,7 +15,7 @@ title: "Michael E Flynn"
   
   <img src="images/profile-pic.png" 
     style="width:90%; 
-    margin-right: 10px" align="left">
+    margin-right: 5px" align="left">
 
   </div>
   
@@ -30,6 +30,7 @@ This page is currently under construction so please excuse the oddities and erro
       <input type="submit" value="CV" />
   </form>
 
+
   <p style="margin-bottom:0.15cm;">
 
 
@@ -37,11 +38,14 @@ This page is currently under construction so please excuse the oddities and erro
       <input type="submit" value="Kansas State Political Science" />
   </form>
 
+
   <p style="margin-bottom:0.15cm;">
+
 
   <form action="http://quantitativepeace.com"> 
       <input type="submit" value="Quantitative Peace" />
   </form>
+
 
 </div>
 </div>
