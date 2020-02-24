@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582056259763.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1360303420",
+    "id" : "E9015A2F",
+    "lastKnownWriteTime" : 1582135435,
+    "last_content_update" : 1582135435270,
+    "path" : "C:/Users/flynn/Dropbox/Website/meflynn.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,9",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

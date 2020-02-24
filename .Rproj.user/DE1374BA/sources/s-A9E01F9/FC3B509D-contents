@@ -1,0 +1,38 @@
+name: "meflynn"
+output_dir: "."
+navbar:
+  title: "Michael E Flynn"
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Minerva"
+      href: minerva.html
+    - text: "Teaching"
+      href: teaching.html
+      menu: 
+        - text: "Student Resources"
+          href: student-resources.html
+        - text: "POLSC 135 - Introduction to World Politics"
+          href: introduction-to-world-politics.html
+        - text: "POLSC 345 - US Foreign Policy"
+          href: us-foreign-policy.html
+        - text: "POLSC 640 - Political Economy of Conflict"
+          href: political-economy-of-conflict.html
+        - text: "POLSC 813 - International Security"
+          href: international-security.html
+    - icon: fab fa-twitter
+      href: http://www.twitter.com/michael_e_flynn
+    - icon: fab fa-github
+      href: https://github.com/meflynn
+output:
+  html_document:
+    theme: cosmo
+    highlight: 
+    css: "styles.css"
+    includes:
+      after_body: footer.html
+    
+
+

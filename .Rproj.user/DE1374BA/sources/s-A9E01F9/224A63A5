@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582404961706.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "224A63A5",
+    "lastKnownWriteTime" : 1582566078,
+    "last_content_update" : 1582566078281,
+    "path" : "~/Dropbox/Website/meflynn.github.io/research.Rmd",
+    "project_path" : "research.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,5",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

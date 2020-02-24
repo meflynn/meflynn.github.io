@@ -5,7 +5,7 @@ title: "Michael E Flynn"
 .column {
   float: left;
   width: 50%;
-  padding: 15px;
+  padding: 2px;
 }
 
 </style>
@@ -15,7 +15,7 @@ title: "Michael E Flynn"
   
   <img src="images/profile-pic.png" 
     style="width:90%; 
-    margin-right: 5px" align="left">
+    margin-right: 10px" align="left">
 
   </div>
   
@@ -26,18 +26,9 @@ My name is Michael Flynn. I'm currently an associate professor of political scie
 This page is currently under construction so please excuse the oddities and errors. Some are temporary.
 
 
-  <form action="files/cv/Flynn_CV.pdf">
+  <form action="files/Flynn_CV.pdf">
       <input type="submit" value="CV" />
   </form>
-
-
-  <p style="margin-bottom:0.15cm;">
-  
-  
-  <form action="https://scholar.google.com/citations?user=_bkNbckAAAAJ&hl=en">
-      <input type="submit" value="Google Scholar" />
-  </form>
-
 
   <p style="margin-bottom:0.15cm;">
 
@@ -46,14 +37,11 @@ This page is currently under construction so please excuse the oddities and erro
       <input type="submit" value="Kansas State Political Science" />
   </form>
 
-
   <p style="margin-bottom:0.15cm;">
-
 
   <form action="http://quantitativepeace.com"> 
       <input type="submit" value="Quantitative Peace" />
   </form>
-
 
 </div>
 </div>
