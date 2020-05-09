@@ -21,6 +21,8 @@ navbar:
           href: political-economy-of-conflict.html
         - text: "POLSC 813 - International Security"
           href: international-security.html
+    - icon: ai ai-google-scholar-square
+      href: https://scholar.google.com/citations?user=_bkNbckAAAAJ&hl=en
     - icon: fab fa-twitter
       href: http://www.twitter.com/michael_e_flynn
     - icon: fab fa-github
@@ -29,7 +31,9 @@ output:
   html_document:
     theme: cosmo
     highlight: 
-    css: "styles.css"
+    css: 
+    - "styles.css" 
+    - "academicons-1.8.6/css/academicons.min.css"
     includes:
       after_body: footer.html
     
